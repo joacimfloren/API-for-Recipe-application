@@ -1,0 +1,1 @@
+﻿http://default-environment.kh5drfchpf.eu-central-1.elasticbeanstalk.com/api/v1/
